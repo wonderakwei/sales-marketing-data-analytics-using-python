@@ -15,13 +15,13 @@ Welcome to the "Python Marketing Campaign Analytics" project, where we dive into
 
 ### Background of the Dataset
 
+![Dataset Image Placeholder](bettertactics.jpg) 
+
 The dataset encompasses three types of hospital accounts: big, medium, and small hospitals. Sales data includes both organic and inorganic revenue generated through various marketing channels such as phone calls, emails, flyers, and sales visits.
 
 Key questions to be addressed:
 - What is the specific impact of each marketing strategy and sales visit on Sales (Amount Collected)?
 - Does the effectiveness of each marketing strategy vary across different client types?
-
-![Dataset Image Placeholder](insert_image_path) <!-- Insert the path or link to the image -->
 
 ---
 
